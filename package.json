@@ -1,0 +1,12 @@
+{
+  "name": "express-docker-web",
+  "version": "1.0.0",
+  "description": "Mini-Website mit Express und Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
